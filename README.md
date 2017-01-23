@@ -6,3 +6,5 @@ the development of web, desktop and embedded applications using wide range of te
 [Bouncing balls](/training-js-bounce/)
 
 [Clock](/training-js-clock/)
+
+[Tetris](/training-js-tetris/)
