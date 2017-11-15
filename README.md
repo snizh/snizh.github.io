@@ -9,4 +9,4 @@ the development of web, desktop and embedded applications using wide range of te
 
 ## JavaScript
 
-[Clock](/js-exersize-clock/)
+[Clock](/js-exercise-clock/)
